@@ -17,7 +17,7 @@ python3 ARWU_ranking.py
 python3 CWUR_ranking.py
 ```
 
-3. Run the main script to merge individual csv files into one
+3. Run the main script to merge individual csv files into one, outputs CSV file *university_scores.csv*
 ```
 python3 main.py
 ```
@@ -27,7 +27,7 @@ python3 main.py
 jupyter notebook
 ```
 
-Open the notebook *test_name_similarity_matching.ipynb* in Jupyter Notebook and run all cells
+Open the notebook *test_name_similarity_matching.ipynb* in Jupyter Notebook and run all cells. Outputs CSV file *grouped_university_ranking.csv*.
 
 ### Data sources
 
