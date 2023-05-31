@@ -1,0 +1,1475 @@
+,University Name,Times Ranking,CWUR Ranking,QS Ranking,ARWU Ranking
+0,University of Oxford,1,5.0,4,7
+1,Harvard University,2,1.0,5,1
+2,University of Cambridge,3,4.0,2,4
+3,Stanford University,3,3.0,3,2
+4,Massachusetts Institute of Technology,5,2.0,1,3
+5,California Institute of Technology,6,10.0,6,9
+6,Princeton University,7,6.0,16,6
+7,"University of California, Berkeley",8,12.0,27,5
+8,Yale University,9,11.0,18,11
+9,Imperial College London,10,30.0,6,23
+10,Columbia University,11,8.0,22,8
+11,ETH Zurich,11,29.0,9,20
+12,The University of Chicago,13,7.0,10,10
+13,University of Pennsylvania,14,9.0,13,15
+14,Johns Hopkins University,15,16.0,24,14
+15,Tsinghua University,16,47.0,14,26
+16,Peking University,17,51.0,12,34
+17,University of Toronto,18,24.0,34,22
+18,National University of Singapore,19,85.0,11,71
+19,Cornell University,20,14.0,20,12
+20,"University of California, Los Angeles",21,18.0,44,13
+21,University of Michigan-Ann Arbor,23,15.0,25,28
+22,New York University,24,23.0,39,25
+23,Duke University,25,20.0,50,31
+24,Northwestern University,26,17.0,32,30
+25,University of Washington,26,25.0,80,17
+26,Carnegie Mellon University,28,86.0,52,101-150
+27,University of Edinburgh,29,45.0,15,35
+28,Technical University of Munich,30,79.0,49,56
+29,University of Hong Kong,31,163.0,21,96
+30,"University of California, San Diego",32,34.0,53,21
+31,University of Melbourne,34,58.0,33,32
+32,King’s College London,35,40.0,37,48
+33,"Nanyang Technological University, Singapore",36,133.0,19,88
+34,London School of Economics and Political Science,37,324.0,56,101-150
+35,Georgia Institute of Technology,38,68.0,88,151-200
+36,The University of Tokyo,39,13.0,23,24
+37,University of British Columbia,40,49.0,47,44
+38,École Polytechnique Fédérale de Lausanne,41,101.0,,
+39,KU Leuven,42,118.0,76,95
+40,Monash University,44,123.0,57,75
+41,Chinese University of Hong Kong,45,177.0,38,101-150
+42,McGill University,46,28.0,31,73
+43,University of Illinois at Urbana-Champaign,48,22.0,85,49
+44,Karolinska Institute,49,37.0,,41
+45,University of Texas at Austin,50,33.0,72,37
+46,Fudan University,51,102.0,34,67
+47,Shanghai Jiao Tong University,52,80.0,46,54
+48,The University of Queensland,53,107.0,50,47
+49,University of Manchester,54,60.0,28,38
+50,The University of Sydney,54,98.0,41,60
+51,Seoul National University,56,31.0,29,98
+52,Washington University in St Louis,57,46.0,118,27
+53,The Hong Kong University of Science and Technology,58,216.0,40,301-400
+54,Wageningen University & Research,59,178.0,124,151-200
+55,University of Amsterdam,60,83.0,58,101-150
+56,Brown University,61,66.0,63,99
+57,Australian National University,62,124.0,30,79
+58,"University of California, Davis",63,54.0,102,101-150
+59,"University of California, Santa Barbara",64,90.0,149,57
+60,University of Southern California,65,50.0,134,53
+61,Utrecht University,66,73.0,112,54
+62,Zhejiang University,67,97.0,42,36
+63,Kyoto University,68,26.0,36,41
+64,University of North Carolina at Chapel Hill,69,39.0,102,29
+65,Delft University of Technology,70,265.0,61,151-200
+66,Boston University,71,99.0,108,101-150
+67,University of Science and Technology of China,74,128.0,94,62
+68,University of Groningen,75,105.0,145,66
+69,University of Bristol,76,94.0,61,81
+70,Leiden University,77,87.0,131,101-150
+71,Hong Kong Polytechnic University,79,248.0,65,151-200
+72,Erasmus University Rotterdam,80,95.0,208,87
+73,University of Wisconsin-Madison,81,27.0,83,33
+74,Emory University,82,129.0,155,101-150
+75,University of Glasgow,82,126.0,81,101-150
+76,University of Zurich,82,64.0,83,59
+77,McMaster University,85,172.0,152,90
+78,Humboldt University of Berlin,86,61.0,,
+79,University of Tübingen,86,114.0,,151-200
+80,University of Adelaide,88,209.0,109,101-150
+81,University of Bonn,89,125.0,,76
+82,Sorbonne University,90,38.0,60,43
+83,Free University of Berlin,91,56.0,,
+84,University of Bern,94,139.0,120,101-150
+85,"University of California, Irvine",95,81.0,235,61
+86,Institut Polytechnique de Paris,95,43.0,48,301-400
+87,Nanjing University,95,154.0,133,101-150
+88,Vanderbilt University,98,52.0,199,64
+89,City University of Hong Kong,99,259.0,54,151-200
+90,RWTH Aachen University,99,214.0,147,201-300
+91,University of Basel,101,106.0,136,83
+92,King Abdulaziz University,101,261.0,106,101-150
+93,University of Minnesota,101,1495.0,,
+94,"University of Maryland, College Park",104,76.0,164,50
+95,University of Warwick,104,173.0,64,101-150
+96,Michigan State University,106,150.0,159,151-200
+97,Ghent University,107,122.0,143,74
+98,University of Birmingham,108,82.0,91,101-150
+99,University of Southampton,108,121.0,78,151-200
+100,University of Helsinki,110,120.0,106,92
+101,University of Montreal,111,117.0,,101-150
+102,University of Freiburg,113,127.0,,101-150
+103,University of Copenhagen,114,36.0,82,39
+104,University of Sheffield,114,151.0,96,101-150
+105,Aarhus University,117,108.0,161,69
+106,University of Alberta,118,77.0,110,92
+107,University of Göttingen,119,89.0,215,151-200
+108,Lund University,119,143.0,95,151-200
+109,Lancaster University,122,339.0,146,301-400
+110,Dartmouth College,123,41.0,205,301-400
+111,Queen Mary University of London,124,153.0,125,201-300
+112,University of Vienna,124,212.0,151,151-200
+113,University of Oslo,126,78.0,101,67
+114,University of Hamburg,128,169.0,,201-300
+115,University of Leeds,128,104.0,86,151-200
+116,University of Nottingham,130,135.0,114,101-150
+117,University of Antwerp,131,293.0,280,201-300
+118,The University of Western Australia,131,152.0,90,99
+119,University of Technology Sydney,133,356.0,137,201-300
+120,Case Western Reserve University,134,136.0,176,101-150
+121,University of Lausanne,135,187.0,203,101-150
+122,Georgetown University,136,225.0,281,401-500
+123,University of Exeter,137,263.0,163,101-150
+124,University of Ottawa,137,213.0,237,201-300
+125,University of Auckland,139,272.0,87,201-300
+126,Newcastle University,139,159.0,122,201-300
+127,University of Würzburg,139,218.0,,201-300
+128,University of York,139,323.0,162,401-500
+129,Maastricht University,145,253.0,278,201-300
+130,University of Cologne,146,186.0,335,151-200
+131,Rice University,147,160.0,100,101-150
+132,University of Colorado Boulder,148,69.0,317,51
+133,Ulm University,148,325.0,375,301-400
+134,Uppsala University,148,88.0,128,89
+135,University of Florida,151,84.0,188,94
+136,Tufts University,151,145.0,312,151-200
+137,University of Rochester,154,91.0,147,151-200
+138,KTH Royal Institute of Technology,155,140.0,89,201-300
+139,Arizona State University (Tempe),156,182.0,219,101-150
+140,Technical University of Berlin,156,383.0,,301-400
+141,University of Cape Town,160,270.0,237,201-300
+142,University of Bologna,161,181.0,,201-300
+143,Trinity College Dublin,161,235.0,,151-200
+144,University of Leicester,163,246.0,279,301-400
+145,Pohang University of Science and Technology (POSTECH),163,387.0,71,301-400
+146,Southern University of Science and Technology (SUSTech),166,487.0,226,151-200
+147,Technical University of Denmark,166,193.0,104,151-200
+148,Medical University of Graz,168,567.0,,501-600
+149,"Northeastern University, US",168,321.0,388,
+150,Université Catholique de Louvain,170,207.0,195,
+151,Sungkyunkwan University (SKKU),170,190.0,99,201-300
+152,Wuhan University,173,183.0,194,101-150
+153,Ulsan National Institute of Science and Technology (UNIST),174,503.0,197,201-300
+154,Macquarie University,175,360.0,195,201-300
+155,Huazhong University of Science and Technology,176,137.0,306,96
+156,University of Liverpool,176,134.0,190,101-150
+157,Stockholm University,176,146.0,153,90
+158,University of Mannheim,179,1013.0,,
+159,University of Arizona,180,93.0,262,101-150
+160,University of Barcelona,182,132.0,,151-200
+161,Autonomous University of Barcelona,183,184.0,,201-300
+162,Scuola Normale Superiore di Pisa,183,512.0,,501-600
+163,University of Münster,185,199.0,384,201-300
+164,Pompeu Fabra University,186,403.0,,301-400
+165,Cardiff University,187,156.0,166,151-200
+166,National Taiwan University (NTU),187,96.0,77,201-300
+167,Friedrich Schiller University Jena,189,322.0,,
+168,Karlsruhe Institute of Technology,189,241.0,141,201-300
+169,University of Massachusetts,191,162.0,253,151-200
+170,University of Aberdeen,192,296.0,220,201-300
+171,"University of California, Santa Cruz",192,299.0,375,151-200
+172,Medical University of Vienna,194,295.0,151,201-300
+173,University of Miami,194,237.0,296,201-300
+174,University of Erlangen-Nuremberg,196,229.0,,201-300
+175,Sichuan University,196,208.0,406,101-150
+176,Durham University,198,329.0,92,301-400
+177,Queen’s University Belfast,198,366.0,233,301-400
+178,University of Reading,198,245.0,229,301-400
+179,Aalto University,201–250,345.0,116,301-400
+180,University of Bergen,201–250,286.0,207,301-400
+181,Bielefeld University,201–250,644.0,1001-1200,701-800
+182,University of Calgary,201–250,192.0,242,151-200
+183,Curtin University,201–250,340.0,193,201-300
+184,University of Dundee,201–250,350.0,354,301-400
+185,University of East Anglia,201–250,278.0,342,201-300
+186,Eindhoven University of Technology,201–250,343.0,138,301-400
+187,University of Geneva,201–250,110.0,125,62
+188,George Washington University,201–250,294.0,362,201-300
+189,University of Gothenburg,201–250,167.0,185,101-150
+190,University of Hohenheim,201–250,805.0,801-1000,
+191,Humanitas University,201–250,1448.0,,401-500
+192,King Fahd University of Petroleum and Minerals,201–250,681.0,160,401-500
+193,University of Konstanz,201–250,540.0,,501-600
+194,Korea University,201–250,164.0,74,201-300
+195,Université Libre de Bruxelles,201–250,222.0,210,101-150
+196,University of Luxembourg,201–250,854.0,,701-800
+197,University of Macau,201–250,597.0,304,401-500
+198,Macau University of Science and Technology,201–250,1034.0,581-590,501-600
+199,Medical University of Innsbruck,201–250,561.0,,401-500
+200,University of Newcastle,201–250,398.0,122,201-300
+201,University of Notre Dame,201–250,175.0,243,301-400
+202,University of Potsdam,201–250,515.0,,401-500
+203,Qatar University,201–250,918.0,208,501-600
+204,Queensland University of Technology,201–250,382.0,222,201-300
+205,"St George’s, University of London",201–250,632.0,,501-600
+206,Sant’Anna School of Advanced Studies – Pisa,201–250,1217.0,,
+207,University of São Paulo,201–250,103.0,,101-150
+208,Sapienza University of Rome,201–250,113.0,171,101-150
+209,Semmelweis University,201–250,673.0,,601-700
+210,University of South Florida,201–250,305.0,601-650,201-300
+211,University of St Andrews,201–250,364.0,96,301-400
+212,University of Surrey,201–250,492.0,305,301-400
+213,University of Sussex,201–250,243.0,240,151-200
+214,University of Tartu,201–250,526.0,296,501-600
+215,Tel Aviv University,201–250,155.0,260,151-200
+216,Tohoku University,201–250,144.0,79,151-200
+217,University College Dublin,201–250,288.0,181,301-400
+218,Vita-Salute San Raffaele University,201–250,454.0,,401-500
+219,Vrije Universiteit Brussel,201–250,359.0,251,301-400
+220,University of Waterloo,201–250,204.0,154,151-200
+221,Western University,201–250,189.0,172,201-300
+222,Western Sydney University,201–250,488.0,501-510,301-400
+223,University of Wollongong,201–250,390.0,185,201-300
+224,Aalborg University,251–300,368.0,330,301-400
+225,Auckland University of Technology,251–300,1031.0,486,
+226,Australian Catholic University,251–300,1004.0,801-1000,501-600
+227,University of Bath,251–300,443.0,179,401-500
+228,Beijing Normal University,251–300,311.0,262,201-300
+229,Bond University,251–300,1859.0,481,
+230,Boston College,251–300,524.0,561-570,401-500
+231,Bournemouth University,251–300,1239.0,801-1000,801-900
+232,"University of California, Riverside",251–300,249.0,453,201-300
+233,University of Canberra,251–300,1094.0,511-520,801-900
+234,Chalmers University of Technology,251–300,399.0,125,401-500
+235,"China Medical University, Taiwan",251–300,535.0,,
+236,Copenhagen Business School,251–300,1074.0,,601-700
+237,Deakin University,251–300,376.0,266,201-300
+238,University of Duisburg-Essen,251–300,314.0,,301-400
+239,École des Ponts ParisTech,251–300,334.0,174,
+240,Goethe University Frankfurt,251–300,131.0,328,151-200
+241,Griffith University,251–300,384.0,300,201-300
+242,University of Hawai’i at Mānoa,251–300,501.0,380,301-400
+243,Hebrew University of Jerusalem,251–300,67.0,222,77
+244,University of Illinois Chicago,251–300,7.0,10,10
+245,Indian Institute of Science,251–300,491.0,155,301-400
+246,Johannes Gutenberg University of Mainz,251–300,211.0,,
+247,University of Kiel,251–300,227.0,,201-300
+248,King Saud University,251–300,357.0,237,101-150
+249,Kyung Hee University,251–300,379.0,270,401-500
+250,La Trobe University,251–300,477.0,316,201-300
+251,Linköping University,251–300,371.0,320,301-400
+252,University of Navarra,251–300,455.0,253,501-600
+253,Oregon Health and Science University,251–300,276.0,,201-300
+254,Osaka University,251–300,92.0,68,151-200
+255,University of Pavia,251–300,303.0,,401-500
+256,Queen’s University,251–300,320.0,233,201-300
+257,Ruhr University Bochum,251–300,316.0,416,
+258,Sejong University,251–300,696.0,551-560,401-500
+259,University of Sharjah,251–300,1520.0,601-650,
+260,Simon Fraser University,251–300,354.0,328,301-400
+261,University of Southern Denmark,251–300,302.0,347,201-300
+262,Stellenbosch University,251–300,441.0,454,401-500
+263,Sun Yat-sen University,251–300,130.0,267,79
+264,Swansea University,251–300,572.0,425,501-600
+265,Tilburg University,251–300,670.0,398,601-700
+266,Tongji University,251–300,219.0,212,151-200
+267,University of Twente,251–300,425.0,212,401-500
+268,United Arab Emirates University,251–300,1183.0,296,
+269,University of Utah,251–300,116.0,392,101-150
+270,University of the Witwatersrand,251–300,292.0,428,301-400
+271,Aix-Marseille University,301–350,158.0,490,101-150
+272,Alfaisal University,301–350,1735.0,651-700,
+273,Anglia Ruskin University (ARU),301–350,1412.0,,
+274,Autonomous University of Madrid,301–350,285.0,,301-400
+275,University of Bordeaux,301–350,252.0,521-530,201-300
+276,Brandeis University,301–350,205.0,497,301-400
+277,University at Buffalo,301–350,300.0,425,
+278,"University of California, Merced",301–350,856.0,,401-500
+279,University of Colorado Denver/Anschutz Medical Campus,301–350,148.0,,
+280,Dalhousie University,301–350,341.0,308,301-400
+281,Drexel University,301–350,362.0,651-700,301-400
+282,École Normale Supérieure de Lyon,301–350,507.0,111,
+283,University of Essex,301–350,774.0,465,401-500
+284,Flinders University,301–350,541.0,425,401-500
+285,Florida State University,301–350,289.0,511-520,201-300
+286,George Mason University,301–350,465.0,1001-1200,201-300
+287,Hasselt University,301–350,847.0,449,601-700
+288,University of Iowa,301–350,142.0,467,201-300
+289,Lappeenranta-Lahti University of Technology LUT,301–350,986.0,388,
+290,University of Milan,301–350,179.0,324,151-200
+291,University of Milan-Bicocca,301–350,336.0,601-650,301-400
+292,Montpellier University,301–350,168.0,,151-200
+293,Nagoya University,301–350,112.0,112,101-150
+294,Nankai University,301–350,228.0,378,201-300
+295,University of Otago,301–350,372.0,217,301-400
+296,University of Oulu,301–350,459.0,392,401-500
+297,RMIT University,301–350,482.0,190,301-400
+298,University of St Gallen,301–350,605.0,501-510,
+299,Saint Louis University,301–350,450.0,601-650,601-700
+300,University of South Australia,301–350,538.0,363,501-600
+301,University of Southern Queensland,301–350,1136.0,651-700,501-600
+302,Stony Brook University,301–350,203.0,,301-400
+303,University of Stuttgart,301–350,476.0,,301-400
+304,Swinburne University of Technology,301–350,616.0,296,201-300
+305,Taipei Medical University,301–350,701.0,384,601-700
+306,Tampere University,301–350,429.0,415,401-500
+307,University of Tasmania,301–350,406.0,293,201-300
+308,Technical University of Darmstadt,301–350,493.0,275,401-500
+309,Temple University,301–350,351.0,751-800,401-500
+310,The University of Tennessee-Knoxville,301–350,254.0,601-650,201-300
+311,Tokyo Institute of Technology,301–350,157.0,55,151-200
+312,University College Cork,301–350,525.0,303,301-400
+313,University of Victoria,301–350,397.0,359,301-400
+314,American University of Beirut,351–400,727.0,252,701-800
+315,"Asia University, Taiwan",351–400,1107.0,1001-1200,
+316,"Birkbeck, University of London",351–400,738.0,343,
+317,University of Bremen,351–400,545.0,,501-600
+318,University of Brescia,351–400,607.0,801-1000,501-600
+319,Catholic University of Portugal,351–400,1644.0,,
+320,Central South University,351–400,226.0,499,101-150
+321,Charles Darwin University,351–400,1100.0,701-750,801-900
+322,"City, University of London",351–400,862.0,355,
+323,University of Delaware,351–400,304.0,581-590,201-300
+324,East China Normal University,351–400,369.0,541-550,201-300
+325,Edith Cowan University,351–400,988.0,601-650,601-700
+326,University of Greifswald,351–400,757.0,,
+327,Harbin Institute of Technology,351–400,195.0,217,151-200
+328,Howard University,351–400,1213.0,751-800,
+329,IMT Atlantique,351–400,1076.0,,
+330,James Cook University,351–400,489.0,461,301-400
+331,University of Kent,351–400,672.0,375,401-500
+332,Khalifa University,351–400,915.0,181,801-900
+333,Leuphana University of Lüneburg,351–400,1403.0,,
+334,University of Liège,351–400,290.0,,301-400
+335,Loughborough University,351–400,642.0,256,701-800
+336,University of Malaya,351–400,391.0,,301-400
+337,University of Manitoba,351–400,283.0,651-700,201-300
+338,Mazandaran University of Medical Sciences,351–400,1840.0,,
+339,University of Naples Federico II,351–400,238.0,416,201-300
+340,North Carolina State University,351–400,188.0,312,201-300
+341,University of Rome II – Tor Vergata,351–400,331.0,499,
+342,"Royal Holloway, University of London",351–400,532.0,402,601-700
+343,Royal Veterinary College,351–400,1320.0,,801-900
+344,Rush University,351–400,521.0,,501-600
+345,University of Stirling,351–400,910.0,501-510,801-900
+346,Swedish University of Agricultural Sciences,351–400,405.0,,301-400
+347,University of Texas at Dallas,351–400,424.0,521-530,301-400
+348,Tulane University,351–400,453.0,471,601-700
+349,University of Turku,351–400,395.0,291,401-500
+350,Verona University,351–400,542.0,801-1000,501-600
+351,Wake Forest University,351–400,257.0,438,501-600
+352,Washington State University,351–400,298.0,443,301-400
+353,Wroclaw Medical University,351–400,926.0,,801-900
+354,University of Alaska Fairbanks,401–500,760.0,467,501-600
+355,Aston University,401–500,959.0,561-570,
+356,Babol Noshirvani University of Technology,401–500,1324.0,,
+357,Bangor University,401–500,747.0,601-650,601-700
+358,University of Bayreuth,401–500,641.0,511-520,701-800
+359,Brunel University London,401–500,560.0,412,601-700
+360,University of Campinas,401–500,346.0,,301-400
+361,Cankaya University,401–500,1917.0,,
+362,University of Catania,401–500,468.0,801-1000,501-600
+363,Claude Bernard University Lyon 1,401–500,232.0,,201-300
+364,Colorado School of Mines,401–500,552.0,501-510,701-800
+365,Complutense University of Madrid,401–500,247.0,226,201-300
+366,University of Connecticut,401–500,198.0,350,301-400
+367,University of Crete,401–500,736.0,591-600,601-700
+368,University of Cyprus,401–500,743.0,473,501-600
+369,University of Denver,401–500,838.0,751-800,
+370,Dublin City University,401–500,1078.0,471,801-900
+371,Duy Tan University,401–500,1140.0,801-1000,901-1000
+372,Edinburgh Napier University,401–500,1873.0,801-1000,
+373,University of Electronic Science and Technology of China,401–500,319.0,561-570,151-200
+374,University of Ferrara,401–500,502.0,,601-700
+375,University of Florence,401–500,264.0,460,301-400
+376,Free University of Bozen-Bolzano,401–500,1701.0,701-750,801-900
+377,University of Genoa,401–500,271.0,651-700,501-600
+378,Georgia State University,401–500,537.0,801-1000,501-600
+379,Hanyang University,401–500,307.0,157,201-300
+380,Hunan University,401–500,317.0,591-600,201-300
+381,University of Ibadan,401–500,1172.0,,801-900
+382,Illinois Institute of Technology,401–500,606.0,443,901-1000
+383,University of Innsbruck,401–500,393.0,,301-400
+384,Institut Agro,401–500,592.0,,
+385,University of International Business and Economics,401–500,1836.0,1201-1400,
+386,Iowa State University,401–500,174.0,481,501-600
+387,Jazan University,401–500,1939.0,,
+388,Justus Liebig University Giessen,401–500,386.0,490,
+389,University of Jyväskylä,401–500,585.0,347,701-800
+390,University of Kansas,401–500,196.0,369,201-300
+391,Koç University,401–500,1114.0,477,
+392,University of KwaZulu-Natal,401–500,484.0,801-1000,501-600
+393,University of Lagos,401–500,1924.0,,
+394,Leibniz University Hannover,401–500,497.0,601-650,501-600
+395,Lincoln University,401–500,1551.0,368,701-800
+396,University of Lincoln,401–500,1347.0,801-1000,901-1000
+397,Liverpool John Moores University,401–500,835.0,801-1000,601-700
+398,University of Marburg,401–500,374.0,,401-500
+399,Maynooth University,401–500,1236.0,801-1000,
+400,Middlesex University,401–500,1548.0,751-800,
+401,University of Modena and Reggio Emilia,401–500,523.0,801-1000,501-600
+402,Muhimbili University of Health and Allied Sciences,401–500,1912.0,,
+403,Murdoch University,401–500,837.0,561-570,401-500
+404,National and Kapodistrian University of Athens,401–500,275.0,601-650,301-400
+405,University of Nebraska-Lincoln,401–500,309.0,651-700,201-300
+406,University of Nebraska Medical Center,401–500,602.0,,701-800
+407,Norwegian University of Science and Technology,401–500,176.0,352,101-150
+408,Nova Southeastern University,401–500,1503.0,1201-1400,
+409,Örebro University,401–500,780.0,,601-700
+410,University of Pisa,401–500,268.0,404,151-200
+411,University of Plymouth,401–500,650.0,651-700,501-600
+412,University of Porto,401–500,308.0,274,201-300
+413,University of Portsmouth,401–500,877.0,701-750,801-900
+414,Quaid-i-Azam University,401–500,739.0,363,901-1000
+415,Sabancı University,401–500,1545.0,,
+416,Sharif University of Technology,401–500,646.0,380,601-700
+417,Shenzhen University,401–500,358.0,581-590,201-300
+418,University of Siena,401–500,490.0,751-800,601-700
+419,South China University of Technology,401–500,220.0,406,151-200
+420,Southeast University,401–500,244.0,461,151-200
+421,Southern Medical University,401–500,544.0,,401-500
+422,University of Strathclyde,401–500,481.0,325,401-500
+423,Syracuse University,401–500,462.0,751-800,701-800
+424,Tianjin University,401–500,194.0,307,151-200
+425,University of Trento,401–500,452.0,457,401-500
+426,The University of Tulsa,401–500,1522.0,801-1000,
+427,University of Turin,401–500,230.0,475,201-300
+428,Umeå University,401–500,333.0,369,501-600
+429,Victoria University of Wellington,401–500,703.0,275,401-500
+430,University of Waikato,401–500,1115.0,331,701-800
+431,University of the West of England,401–500,1256.0,801-1000,
+432,Xiamen University,401–500,197.0,422,151-200
+433,York University,401–500,433.0,456,401-500
+434,Aberystwyth University,501–600,874.0,651-700,
+435,An-Najah National University,501–600,1978.0,1001-1200,
+436,University of L’Aquila,501–600,840.0,,801-900
+437,Beihang University,501–600,269.0,,201-300
+438,Beijing Institute of Technology,501–600,313.0,355,151-200
+439,University of Bradford,501–600,1294.0,701-750,
+440,Changsha University of Science and Technology,501–600,1214.0,,701-800
+441,Charles University,501–600,1095.0,288,801-900
+442,University of Côte d’Azur,501–600,428.0,,501-600
+443,Eastern Mediterranean University,501–600,1932.0,,
+444,Florida International University,501–600,467.0,751-800,401-500
+445,University of Fribourg,501–600,677.0,,501-600
+446,"Goldsmiths, University of London",501–600,1736.0,511-520,
+447,Government College University Faisalabad,501–600,1637.0,,
+448,University of Greenwich,501–600,1281.0,801-1000,601-700
+449,University of Guelph,501–600,479.0,591-600,401-500
+450,Gwangju Institute of Science and Technology (GIST),501–600,813.0,288,801-900
+451,Heriot-Watt University,501–600,706.0,281,801-900
+452,Hokkaido University,501–600,221.0,141,201-300
+453,Hong Kong Baptist University,501–600,674.0,281,601-700
+454,University of Hull,501–600,510.0,651-700,701-800
+455,University of Iceland,501–600,593.0,,601-700
+456,University of Insubria,501–600,882.0,,901-1000
+457,Iran University of Science and Technology,501–600,908.0,531-540,801-900
+458,Jamia Millia Islamia,501–600,1677.0,801-1000,
+459,Jimma University,501–600,1829.0,,
+460,Johannes Kepler University of Linz,501–600,964.0,350,801-900
+461,Jordan University of Science and Technology,501–600,1317.0,531-540,
+462,Kafrelsheikh University,501–600,1826.0,,901-1000
+463,Keele University,501–600,945.0,751-800,701-800
+464,University of Kentucky,501–600,306.0,701-750,301-400
+465,Kermanshah University of Medical Sciences,501–600,1770.0,,
+466,University of Kragujevac,501–600,1622.0,1201-1400,
+467,Kyushu University,501–600,240.0,135,301-400
+468,Lebanese American University,501–600,1003.0,601-650,
+469,University of Lille,501–600,312.0,,301-400
+470,University of Lisbon,501–600,200.0,335,201-300
+471,University of Messina,501–600,810.0,801-1000,801-900
+472,Middle East Technical University,501–600,595.0,501-510,901-1000
+473,Missouri University of Science and Technology,501–600,923.0,501-510,901-1000
+474,University of Mons,501–600,894.0,701-750,801-900
+475,National Tsing Hua University,501–600,415.0,177,401-500
+476,National Yang Ming Chiao Tung University,501–600,310.0,202,401-500
+477,University of Neuchâtel,501–600,1151.0,,
+478,Northumbria University,501–600,861.0,,601-700
+479,Northwestern Polytechnical University,501–600,367.0,551-560,151-200
+480,Nottingham Trent University,501–600,1108.0,801-1000,601-700
+481,Open University of Catalonia,501–600,1575.0,,
+482,University of Peradeniya,501–600,1593.0,1001-1200,
+483,University of Salerno,501–600,599.0,1001-1200,601-700
+484,University of Saskatchewan,501–600,414.0,473,301-400
+485,University of Sassari,501–600,954.0,,
+486,Sciences Po,501–600,680.0,259,
+487,Shiraz University of Technology,501–600,1907.0,,
+488,SOAS University of London,501–600,1331.0,443,
+489,University of South Carolina-Columbia,501–600,337.0,701-750,401-500
+490,Southwestern University of Finance and Economics,501–600,1208.0,,501-600
+491,University of Stavanger,501–600,1307.0,,
+492,Stevens Institute of Technology,501–600,1218.0,701-750,
+493,SUNY University at Albany,501–600,407.0,801-1000,
+494,Technion Israel Institute of Technology,501–600,165.0,408,83
+495,Tokyo Medical and Dental University (TMDU),501–600,694.0,392,601-700
+496,University of Trieste,501–600,456.0,701-750,601-700
+497,University of Tsukuba,501–600,267.0,312,201-300
+498,University of Tuscia,501–600,1292.0,,901-1000
+499,University of Udine,501–600,612.0,,701-800
+500,University of Valencia,501–600,284.0,,201-300
+501,Victoria University,501–600,1001.0,701-750,301-400
+502,Virginia Commonwealth University,501–600,260.0,701-750,201-300
+503,Wayne State University,501–600,315.0,601-650,501-600
+504,Xi’an Jiaotong University,501–600,180.0,302,101-150
+505,University of Zambia,501–600,1583.0,,
+506,Zhejiang Normal University,501–600,890.0,42,501-600
+507,Åbo Akademi University,601–800,1104.0,601-650,
+508,Addis Ababa University,601–800,1093.0,,701-800
+509,Ahvaz Jundishapur University of Medical Sciences (AJUMS),601–800,1825.0,,
+510,Ajou University,601–800,744.0,488,801-900
+511,American University,601–800,1003.0,701-750,
+512,American University of Sharjah,601–800,1520.0,369,
+513,Amirkabir University of Technology,601–800,790.0,443,601-700
+514,University of Arkansas,601–800,196.0,369,201-300
+515,Auburn University,601–800,554.0,1001-1200,501-600
+516,Bahçeşehir University,601–800,1698.0,,
+517,Banaras Hindu University,601–800,885.0,1001-1200,
+518,Bar-Ilan University,601–800,547.0,501-510,301-400
+519,Baylor University,601–800,499.0,1001-1200,501-600
+520,Ben-Gurion University of the Negev,601–800,355.0,490,401-500
+521,Benha University,601–800,1723.0,,
+522,Ca’ Foscari University of Venice,601–800,1219.0,801-1000,
+523,University of Camerino (Unicam),601–800,1299.0,,
+524,University of Canterbury,601–800,539.0,,401-500
+525,Capital Medical University,601–800,380.0,,301-400
+526,Carleton University,601–800,534.0,601-650,501-600
+527,University of Central Florida,601–800,473.0,801-1000,301-400
+528,Central Queensland University,601–800,1679.0,,
+529,Chongqing University,601–800,332.0,651-700,201-300
+530,Chung-Ang University,601–800,637.0,392,701-800
+531,Clark University,601–800,1295.0,751-800,
+532,University of Coimbra,601–800,413.0,438,501-600
+533,COMSATS University Islamabad,601–800,745.0,1001-1200,501-600
+534,Concordia University,601–800,613.0,551-560,501-600
+535,University of Córdoba,601–800,750.0,,801-900
+536,University of Costa Rica,601–800,1350.0,,
+537,Cyprus University of Technology,601–800,1729.0,,
+538,Dalian University of Technology,601–800,282.0,561-570,201-300
+539,De Montfort University,601–800,1516.0,801-1000,
+540,University of Dhaka,601–800,1773.0,801-1000,
+541,Dow University of Health Sciences,601–800,1808.0,,
+542,University of Eastern Finland,601–800,478.0,551-560,601-700
+543,Eötvös Loránd University,601–800,517.0,701-750,
+544,Fayoum University,601–800,1321.0,,
+545,Federation University Australia,601–800,1680.0,,
+546,Gabriele d‘Annunzio University,601–800,927.0,,
+547,University of Georgia,601–800,210.0,601-650,301-400
+548,Glasgow Caledonian University,601–800,1607.0,1001-1200,
+549,University of Granada,601–800,327.0,494,201-300
+550,University of Graz,601–800,568.0,,601-700
+551,Graz University of Technology,601–800,833.0,284,801-900
+552,Guangzhou University,601–800,879.0,,501-600
+553,Guangzhou Medical University,601–800,678.0,,501-600
+554,Hacettepe University,601–800,652.0,801-1000,601-700
+555,University of Haifa,601–800,656.0,701-750,501-600
+556,Hamburg University of Technology,601–800,1500.0,,
+557,University of Hertfordshire,601–800,1132.0,801-1000,901-1000
+558,University of Houston,601–800,262.0,751-800,201-300
+559,University of Huddersfield,601–800,1418.0,651-700,
+560,Imam Abdulrahman Bin Faisal University,601–800,1638.0,477,
+561,Indian Institute of Technology Indore,601–800,1433.0,396,
+562,Iran University of Medical Sciences,601–800,1223.0,,901-1000
+563,Istanbul Technical University,601–800,698.0,601-650,901-1000
+564,Jagiellonian University,601–800,381.0,293,401-500
+565,Jawaharlal Nehru University,601–800,816.0,601-650,701-800
+566,Jiangsu University,601–800,508.0,,201-300
+567,Jinan University,601–800,460.0,701-750,301-400
+568,University of Johannesburg,601–800,629.0,412,401-500
+569,Jönköping University,601–800,1844.0,,
+570,The University of Jordan,601–800,1390.0,591-600,701-800
+571,University of Kaiserslautern,601–800,935.0,,
+572,Kansai Medical University,601–800,1774.0,,
+573,University of Kashan,601–800,1598.0,,
+574,King Saud bin Abdulaziz University for Health Sciences,601–800,1349.0,,
+575,Konkuk University,601–800,645.0,651-700,701-800
+576,University of Kurdistan,601–800,1776.0,,
+577,Lehigh University,601–800,522.0,591-600,801-900
+578,University of Limerick,601–800,939.0,531-540,701-800
+579,University of Lorraine,601–800,280.0,,201-300
+580,Louisiana State University,601–800,377.0,801-1000,
+581,Manchester Metropolitan University,601–800,1058.0,801-1000,801-900
+582,Mansoura University,601–800,932.0,1201-1400,601-700
+583,Marche Polytechnic University,601–800,776.0,,601-700
+584,"University of Maryland, Baltimore County",601–800,769.0,801-1000,601-700
+585,Mashhad University of Medical Sciences,601–800,1257.0,,
+586,Massey University,601–800,692.0,292,601-700
+587,Medical University of Lodz,601–800,1014.0,801-1000,
+588,Memorial University of Newfoundland,601–800,648.0,751-800,701-800
+589,Minia University,601–800,1703.0,,
+590,University of Nairobi,601–800,1405.0,1001-1200,
+591,Nanjing Agricultural University,601–800,422.0,801-1000,301-400
+592,National Cheng Kung University (NCKU),601–800,349.0,224,301-400
+593,National Taiwan University of Science and Technology (Taiwan Tech),601–800,812.0,327,801-900
+594,National Yunlin University of Science and Technology,601–800,1931.0,,801-900
+595,Near East University,601–800,1659.0,,
+596,"University of Nevada, Las Vegas",601–800,829.0,,701-800
+597,University of New Brunswick UNB,601–800,1062.0,701-750,
+598,New Jersey Institute of Technology,601–800,962.0,651-700,701-800
+599,University of North Carolina at Charlotte,601–800,804.0,1201-1400,
+600,North-West University,601–800,880.0,1001-1200,601-700
+601,Norwegian University of Life Sciences,601–800,787.0,,801-900
+602,NOVA University of Lisbon,601–800,518.0,335,201-300
+603,"University of Occupational and Environmental Health, Japan",601–800,1445.0,,
+604,Oklahoma State University,601–800,527.0,801-1000,501-600
+605,Ontario Tech University,601–800,1481.0,,901-1000
+606,Oxford Brookes University,601–800,1388.0,438,
+607,University of Parma,601–800,373.0,801-1000,501-600
+608,University of Perugia,601–800,394.0,,401-500
+609,Polytechnic University of Bari,601–800,828.0,,
+610,Polytechnic University of Turin,601–800,580.0,,601-700
+611,Prince Sattam Bin Abdulaziz University,601–800,1904.0,,801-900
+612,Qingdao University,601–800,609.0,,401-500
+613,University of Regina,601–800,970.0,1001-1200,
+614,Rensselaer Polytechnic Institute,601–800,584.0,461,401-500
+615,Rovira i Virgili University,601–800,516.0,,601-700
+616,San Diego State University,601–800,578.0,1001-1200,501-600
+617,University of Sannio,601–800,1501.0,,
+618,University of Santiago de Compostela,601–800,472.0,,401-500
+619,Savitribai Phule Pune University,601–800,1444.0,541-550,
+620,University of Campania Luigi Vanvitelli,601–800,664.0,,701-800
+621,Shanghai University,601–800,430.0,422,201-300
+622,"Soochow University, China",601–800,250.0,651-700,151-200
+623,Southern Cross University,601–800,1345.0,701-750,801-900
+624,University of Strasbourg,601–800,141.0,,101-150
+625,Sultan Qaboos University,601–800,1312.0,384,801-900
+626,University of the Sunshine Coast,601–800,1318.0,1001-1200,601-700
+627,SUNY Binghamton University,601–800,671.0,1001-1200,601-700
+628,University of Tabriz,601–800,985.0,,901-1000
+629,Tabriz University of Medical Sciences,601–800,1394.0,,
+630,Taif University,601–800,1756.0,,401-500
+631,Tallinn University of Technology,601–800,1476.0,701-750,
+632,University of Tehran,601–800,495.0,501-510,301-400
+633,Tehran University of Medical Sciences,601–800,622.0,,401-500
+634,University of Texas at Arlington,601–800,582.0,1201-1400,601-700
+635,The University of Texas at San Antonio,601–800,661.0,1001-1200,401-500
+636,Thapar Institute of Engineering and Technology,601–800,1411.0,1001-1200,
+637,University of Toledo,601–800,839.0,1001-1200,701-800
+638,University of Ulsan,601–800,420.0,561-570,501-600
+639,Ulster University,601–800,969.0,601-650,901-1000
+640,Umm Al-Qura University,601–800,1839.0,449,
+641,Wenzhou University,601–800,1168.0,,701-800
+642,University of the Western Cape,601–800,1186.0,1001-1200,
+643,University of the West of Scotland,601–800,1686.0,,
+644,University of Windsor,601–800,963.0,751-800,
+645,University of Wolverhampton,601–800,1926.0,1001-1200,
+646,University of Wuppertal,601–800,797.0,,901-1000
+647,Xi’an Jiaotong-Liverpool University,601–800,1683.0,1001-1200,101-150
+648,Yokohama City University,601–800,689.0,501-510,801-900
+649,Zhengzhou University,601–800,330.0,801-1000,201-300
+650,University of the Aegean,801–1000,1378.0,,
+651,"University of Agriculture, Faisalabad",801–1000,1242.0,1001-1200,701-800
+652,Al-Azhar University,801–1000,1478.0,1201-1400,801-900
+653,University of Alcalá,801–1000,819.0,,801-900
+654,Alexandria University,801–1000,991.0,1001-1200,501-600
+655,Aligarh Muslim University,801–1000,1153.0,1001-1200,901-1000
+656,American University in Cairo,801–1000,1947.0,416,
+657,Anna University,801–1000,1167.0,551-560,
+658,Aristotle University of Thessaloniki,801–1000,417.0,651-700,501-600
+659,University of Aveiro,801–1000,587.0,501-510,401-500
+660,University of the Balearic Islands,801–1000,794.0,,701-800
+661,University of the Basque Country,801–1000,347.0,701-750,301-400
+662,University of Beira Interior,801–1000,1422.0,,
+663,University of Belgrade,801–1000,348.0,1001-1200,401-500
+664,Beni-Suef University,801–1000,1496.0,,
+665,University of Bergamo,801–1000,1848.0,,
+666,Bharathiar University,801–1000,1661.0,,
+667,Bilkent University,801–1000,1000.0,561-570,
+668,"Birla Institute of Technology and Science, Pilani",801–1000,1455.0,1001-1200,
+669,Boğaziçi University,801–1000,647.0,,
+670,University of Brighton,801–1000,867.0,801-1000,
+671,Cairo University,801–1000,531.0,551-560,301-400
+672,University of Calabria,801–1000,693.0,1001-1200,801-900
+673,Chapman University,801–1000,1632.0,,
+674,Institute of Chemical Technology,801–1000,1810.0,,
+675,Chengdu University,801–1000,1977.0,,
+676,"China University of Petroleum, Beijing",801–1000,793.0,541-550,501-600
+677,Chulalongkorn University,801–1000,464.0,224,501-600
+678,Clemson University,801–1000,570.0,801-1000,601-700
+679,University of Clermont Auvergne,801–1000,423.0,,501-600
+680,Coventry University,801–1000,1232.0,651-700,
+681,CY Cergy Paris University,801–1000,1582.0,751-800,
+682,University of Dayton,801–1000,1273.0,,
+683,Diego Portales University,801–1000,1724.0,,
+684,Donghua University,801–1000,604.0,801-1000,701-800
+685,Ewha Womans University,801–1000,576.0,346,601-700
+686,Federal University of Minas Gerais,801–1000,500.0,,401-500
+687,Florida Agricultural and Mechanical University,801–1000,1930.0,,
+688,Florida Atlantic University,801–1000,1035.0,1201-1400,901-1000
+689,University of Foggia,801–1000,1326.0,,
+690,University of the Free State,801–1000,1126.0,,901-1000
+691,Fujita Health University,801–1000,1268.0,,
+692,Fuzhou University,801–1000,498.0,,301-400
+693,University of Girona,801–1000,777.0,,801-900
+694,Guangdong University of Technology,801–1000,623.0,,401-500
+695,Hiroshima University,801–1000,445.0,338,401-500
+696,Indian Institute of Technology Gandhinagar,801–1000,1695.0,,
+697,University of Ioannina,801–1000,709.0,,
+698,ISCTE-University Institute of Lisbon,801–1000,1633.0,,
+699,University of Jaén,801–1000,1061.0,,701-800
+700,Juntendo University,801–1000,850.0,,601-700
+701,Kansas State University,801–1000,446.0,801-1000,501-600
+702,Karlstad University,801–1000,1784.0,,
+703,Keio University,801–1000,100.0,197,301-400
+704,Kerman University of Medical Sciences,801–1000,622.0,,401-500
+705,Kindai University,801–1000,845.0,,701-800
+706,King Khalid University,801–1000,1609.0,701-750,601-700
+707,King Mongkut’s University of Technology Thonburi,801–1000,1561.0,801-1000,
+708,Kingston University,801–1000,1571.0,601-650,
+709,Kobe University,801–1000,451.0,363,401-500
+710,Kurume University,801–1000,1358.0,,
+711,Kuwait University,801–1000,1334.0,1001-1200,
+712,Kyungpook National University,801–1000,412.0,501-510,401-500
+713,Lakehead University,801–1000,1327.0,,
+714,University of La Laguna,801–1000,657.0,,701-800
+715,University of Latvia,801–1000,1542.0,1001-1200,
+716,Leeds Beckett University,801–1000,1900.0,1001-1200,
+717,Lithuanian University of Health Sciences,801–1000,1618.0,,
+718,University of Ljubljana,801–1000,416.0,601-650,401-500
+719,University of Lleida,801–1000,1043.0,,
+720,Mae Fah Luang University,801–1000,1747.0,,
+721,Mahidol University,801–1000,551.0,256,601-700
+722,Makerere University,801–1000,955.0,1201-1400,
+723,University of Malta,801–1000,1702.0,801-1000,
+724,Manipal Academy of Higher Education,801–1000,1340.0,,
+725,Marquette University,801–1000,1146.0,1001-1200,
+726,Masaryk University,801–1000,562.0,551-560,401-500
+727,Medical University of Gdańsk,801–1000,1099.0,,
+728,University of Memphis,801–1000,981.0,1201-1400,
+729,University of Minho,801–1000,571.0,591-600,401-500
+730,Mississippi State University,801–1000,714.0,1001-1200,501-600
+731,University of Missouri-St Louis,801–1000,1287.0,1001-1200,
+732,Montana State University,801–1000,728.0,,
+733,University of Namur,801–1000,1367.0,,
+734,Nanjing Forestry University,801–1000,886.0,,601-700
+735,Nanjing University of Information Science and Technology,801–1000,546.0,601-650,401-500
+736,Nanjing Normal University,801–1000,588.0,1001-1200,501-600
+737,Nanjing Tech University,801–1000,533.0,133,301-400
+738,National University of Sciences and Technology,801–1000,1244.0,334,901-1000
+739,National Sun Yat-Sen University,801–1000,827.0,428,601-700
+740,National Taiwan Normal University,801–1000,1042.0,332,201-300
+741,National Technical University of Athens,801–1000,558.0,422,
+742,"National Institute of Technology, Tiruchirappalli",801–1000,1546.0,801-1000,
+743,New Mexico State University (Main campus),801–1000,893.0,,
+744,Nippon Medical School,801–1000,1202.0,,
+745,University of North Carolina at Greensboro,801–1000,1101.0,1201-1400,801-900
+746,"Northeastern University, China",801–1000,485.0,388,
+747,Northeast Normal University,801–1000,686.0,,901-1000
+748,University of Northern British Columbia (UNBC),801–1000,1972.0,1201-1400,
+749,Northern Illinois University,801–1000,822.0,,
+750,Old Dominion University,801–1000,857.0,,701-800
+751,Pablo de Olavide University,801–1000,1105.0,,
+752,University of Palermo,801–1000,586.0,1001-1200,501-600
+753,Panjab University,801–1000,730.0,1201-1400,
+754,Parthenope University of Naples,801–1000,972.0,1001-1200,
+755,University of Peshawar,801–1000,1700.0,801-1000,
+756,University of the Philippines,801–1000,1711.0,412,
+757,Polytechnic University of Valencia,801–1000,505.0,,401-500
+758,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),801–1000,1610.0,,
+759,Pontifical Catholic University of Rio Grande do Sul (PUCRS),801–1000,1504.0,,
+760,Pontifical Javeriana University,801–1000,1579.0,,
+761,University of Pretoria,801–1000,555.0,591-600,401-500
+762,University of the Punjab,801–1000,1226.0,801-1000,701-800
+763,University of Rennes 1,801–1000,427.0,,601-700
+764,University of Rhode Island,801–1000,809.0,1001-1200,901-1000
+765,Rhodes University,801–1000,1304.0,801-1000,
+766,University of Roehampton,801–1000,1967.0,,
+767,Roskilde University,801–1000,1707.0,,
+768,University of Salamanca,801–1000,707.0,601-650,501-600
+769,University of Salento,801–1000,761.0,1001-1200,901-1000
+770,University of Salford,801–1000,1507.0,801-1000,
+771,University of Science and Technology Beijing,801–1000,389.0,428,201-300
+772,Shahid Beheshti University,801–1000,1102.0,1001-1200,
+773,Shantou University,801–1000,1050.0,,801-900
+774,Sheffield Hallam University,801–1000,1563.0,1001-1200,
+775,Shiraz University,801–1000,922.0,751-800,
+776,Shiraz University of Medical Sciences,801–1000,1365.0,,
+777,University of Siegen,801–1000,820.0,,
+778,South China Normal University,801–1000,651.0,,501-600
+779,Southern Illinois University Carbondale,801–1000,957.0,,
+780,Suez Canal University,801–1000,1238.0,1201-1400,
+781,Taibah University,801–1000,1654.0,1001-1200,
+782,Tanta University,801–1000,1382.0,1201-1400,
+783,University of Texas at El Paso,801–1000,1016.0,1201-1400,701-800
+784,Texas Tech University,801–1000,432.0,1001-1200,401-500
+785,University of Thessaly,801–1000,1059.0,,801-900
+786,Tribhuvan University,801–1000,1855.0,,
+787,University of Urbino Carlo Bo,801–1000,1067.0,,901-1000
+788,Vilnius University,801–1000,699.0,400,701-800
+789,University of Warsaw,801–1000,402.0,284,401-500
+790,Wenzhou Medical University,801–1000,725.0,,501-600
+791,University of Wisconsin-Milwaukee,801–1000,598.0,1001-1200,701-800
+792,Worcester Polytechnic Institute,801–1000,1081.0,801-1000,
+793,University of Wyoming,801–1000,676.0,801-1000,501-600
+794,Yangzhou University,801–1000,617.0,,401-500
+795,Yeungnam University,801–1000,754.0,801-1000,501-600
+796,Zagazig University,801–1000,1197.0,1201-1400,801-900
+797,University of A Coruña,1001–1200,1005.0,,
+798,"Adam Mickiewicz University, Poznań",1001–1200,818.0,801-1000,901-1000
+799,Ain Shams University,1001–1200,784.0,,701-800
+800,University of Algarve,1001–1200,1250.0,,
+801,University of Almería,1001–1200,1272.0,,
+802,"University of the Andes, Colombia",1001–1200,766.0,,
+803,Assiut University,1001–1200,1163.0,1001-1200,
+804,Autonomous University of Sinaloa,1001–1200,1824.0,,
+805,Babeş-Bolyai University,1001–1200,895.0,1001-1200,801-900
+806,Bahauddin Zakariya University,1001–1200,1746.0,1201-1400,
+807,Beijing Jiaotong University,1001–1200,557.0,801-1000,501-600
+808,Bowling Green State University,1001–1200,1381.0,,
+809,University of Burgos,1001–1200,1838.0,,
+810,University of Calcutta,1001–1200,1118.0,801-1000,901-1000
+811,Carlos III University of Madrid,1001–1200,849.0,,901-1000
+812,University of Castilla-La Mancha,1001–1200,746.0,,701-800
+813,University of Central Lancashire,1001–1200,1387.0,801-1000,
+814,Chang Gung University,1001–1200,579.0,475,401-500
+815,Charles Sturt University,1001–1200,1095.0,801-1000,
+816,Chiang Mai University,1001–1200,942.0,601-650,701-800
+817,Chiba University,1001–1200,574.0,490,601-700
+818,University of Chile,1001–1200,431.0,,401-500
+819,"China University of Geosciences, Beijing",1001–1200,658.0,651-700,401-500
+820,China Pharmaceutical University,1001–1200,869.0,,901-1000
+821,Chonnam National University,1001–1200,435.0,751-800,501-600
+822,Clarkson University,1001–1200,1526.0,801-1000,
+823,Comenius University in Bratislava,1001–1200,630.0,651-700,701-800
+824,Creighton University,1001–1200,1056.0,,
+825,Czech University of Life Sciences Prague (CZU),1001–1200,1160.0,,801-900
+826,University of Debrecen,1001–1200,717.0,651-700,
+827,University of Delhi,1001–1200,591.0,521-530,601-700
+828,East China University of Science and Technology,1001–1200,388.0,601-650,301-400
+829,École Centrale de Lyon,1001–1200,1234.0,,
+830,University of Extremadura,1001–1200,998.0,,601-700
+831,Federal University of Rio de Janeiro,1001–1200,361.0,,401-500
+832,Ferdowsi University of Mashhad,1001–1200,978.0,,901-1000
+833,Florida Institute of Technology,1001–1200,1015.0,,
+834,Fu Jen Catholic University,1001–1200,1225.0,1201-1400,
+835,Fujian Agriculture and Forestry University,1001–1200,889.0,,701-800
+836,University of Ghana,1001–1200,1266.0,1201-1400,
+837,Guangxi University,1001–1200,764.0,,501-600
+838,Hamamatsu University School of Medicine,1001–1200,1565.0,,
+839,Huaqiao University,1001–1200,1147.0,,901-1000
+840,Hyogo College of Medicine,1001–1200,1376.0,,
+841,Ilia State University,1001–1200,1471.0,,
+842,"Indian Institute of Science Education and Research, Pune",1001–1200,1106.0,,
+843,Indian Institute of Science Education and Research Kolkata,1001–1200,1372.0,,
+844,Indian Institute of Technology Bhubaneswar,1001–1200,1594.0,801-1000,
+845,Indian Institute of Technology Guwahati,1001–1200,937.0,384,
+846,Indian Institute of Technology (Indian School of Mines) Dhanbad,1001–1200,1409.0,,
+847,University of Indonesia,1001–1200,1553.0,,
+848,Inha University,1001–1200,708.0,531-540,601-700
+849,Isfahan University of Medical Sciences,1001–1200,1286.0,,
+850,Isfahan University of Technology,1001–1200,718.0,,
+851,Istanbul University,1001–1200,687.0,801-1000,401-500
+852,Istanbul University-Cerrahpaşa,1001–1200,1351.0,,
+853,Jadavpur University,1001–1200,1052.0,701-750,
+854,Jaume I University,1001–1200,896.0,,
+855,Jeonbuk National University,1001–1200,625.0,551-560,701-800
+856,Jiangnan University,1001–1200,549.0,1001-1200,401-500
+857,Jiangsu Normal University,1001–1200,1111.0,,201-300
+858,Jiangxi University of Finance and Economics,1001–1200,1998.0,,
+859,Kanazawa University,1001–1200,713.0,601-650,701-800
+860,Kaohsiung Medical University,1001–1200,785.0,,701-800
+861,K.N. Toosi University of Technology,1001–1200,1277.0,,
+862,Kumamoto University,1001–1200,732.0,651-700,901-1000
+863,Kwame Nkrumah University of Science and Technology,1001–1200,1439.0,,
+864,Kyoto Prefectural University of Medicine,1001–1200,1152.0,,
+865,University of Las Palmas de Gran Canaria,1001–1200,1165.0,,
+866,Lebanese University,1001–1200,1913.0,601-650,
+867,University of Leoben,1001–1200,1656.0,,
+868,University of León,1001–1200,1297.0,,
+869,University of Mazandaran,1001–1200,1833.0,,
+870,Medical University of Bialystok,1001–1200,1630.0,1001-1200,
+871,Menoufia University,1001–1200,1658.0,,
+872,Miguel Hernández University of Elche,1001–1200,1036.0,,801-900
+873,University of Murcia,1001–1200,740.0,801-1000,701-800
+874,Nanjing University of Aeronautics and Astronautics,1001–1200,471.0,801-1000,301-400
+875,Nanjing Medical University,1001–1200,438.0,133,201-300
+876,National Autonomous University of Mexico,1001–1200,277.0,,201-300
+877,National Central University,1001–1200,581.0,581-590,801-900
+878,National University of Colombia,1001–1200,778.0,,801-900
+879,National Taipei University of Technology,1001–1200,1070.0,436,
+880,National Taiwan Ocean University,1001–1200,1373.0,1001-1200,201-300
+881,National Institute of Technology Rourkela,1001–1200,1438.0,,
+882,Necmettin Erbakan University,1001–1200,1760.0,,
+883,Niigata University,1001–1200,748.0,561-570,
+884,Northwest University,1001–1200,880.0,1001-1200,501-600
+885,Oakland University,1001–1200,1248.0,,
+886,Okayama University,1001–1200,469.0,601-650,401-500
+887,University of Oviedo,1001–1200,514.0,,701-800
+888,Palacký University Olomouc,1001–1200,566.0,651-700,701-800
+889,University of Patras,1001–1200,800.0,801-1000,
+890,Pavol Jozef Šafárik University in Košice,1001–1200,1402.0,701-750,
+891,University of Pécs,1001–1200,1135.0,701-750,
+892,Polytechnic Institute of Porto,1001–1200,1743.0,,
+893,Portland State University,1001–1200,921.0,1201-1400,901-1000
+894,Public University of Navarre,1001–1200,1246.0,,
+895,University of Puerto Rico,1001–1200,1121.0,,
+896,Pusan National University,1001–1200,444.0,601-650,501-600
+897,Reichman University,1001–1200,1945.0,,
+898,Rikkyo University,1001–1200,1584.0,1201-1400,
+899,Rochester Institute of Technology,1001–1200,1038.0,1001-1200,
+900,Rowan University,1001–1200,1466.0,,
+901,Sahand University of Technology,1001–1200,718.0,,
+902,Sakarya University,1001–1200,1832.0,1401+,
+903,University of Seville,1001–1200,409.0,,401-500
+904,Shahid Beheshti University of Medical Sciences,1001–1200,938.0,,701-800
+905,Shahrood University of Technology,1001–1200,1929.0,,
+906,Shanghai Maritime University,1001–1200,1497.0,422,201-300
+907,Sogang University,1001–1200,1037.0,457,
+908,Sohag University,1001–1200,1863.0,,
+909,University of South Africa,1001–1200,1302.0,,901-1000
+910,University of South Dakota,1001–1200,1482.0,,
+911,University of South Wales,1001–1200,1807.0,,64
+912,University of Split,1001–1200,803.0,1201-1400,
+913,St Marianna University School of Medicine,1001–1200,1741.0,,
+914,University of Szeged,1001–1200,679.0,551-560,701-800
+915,Technical University of Crete,1001–1200,1854.0,,
+916,University of Texas Rio Grande Valley,1001–1200,1026.0,,
+917,Tokyo Medical University,1001–1200,1216.0,,601-700
+918,Tokyo Metropolitan University,1001–1200,705.0,701-750,
+919,University of Trás-os-Montes and Alto Douro,1001–1200,1515.0,,
+920,Urmia University,1001–1200,1715.0,,
+921,"Vietnam National University, Hanoi",1001–1200,1204.0,801-1000,
+922,University of Vigo,1001–1200,786.0,,501-600
+923,Waseda University,1001–1200,201.0,205,601-700
+924,University of Westminster,1001–1200,1696.0,701-750,
+925,Wuhan University of Technology,1001–1200,463.0,801-1000,301-400
+926,Xidian University,1001–1200,480.0,,501-600
+927,Yasouj University,1001–1200,1990.0,,
+928,Yıldız Technical University,1001–1200,1039.0,,
+929,University of Zaragoza,1001–1200,483.0,,501-600
+930,Zhejiang Gongshang University,1001–1200,1426.0,,
+931,Zhejiang University of Technology,1001–1200,603.0,,401-500
+932,University of Zimbabwe,1001–1200,1764.0,,
+933,Adolfo Ibáñez University,1201–1500,1938.0,,
+934,AGH University of Science and Technology,1201–1500,590.0,801-1000,601-700
+935,Aichi Medical University,1201–1500,1614.0,,
+936,Akdeniz University,1201–1500,1435.0,,
+937,University of Alicante,1201–1500,848.0,801-1000,601-700
+938,Anadolu University,1201–1500,1768.0,1201-1400,
+939,Ankara University,1201–1500,665.0,,801-900
+940,University of Antioquia,1201–1500,1021.0,,
+941,Ariel University,1201–1500,1592.0,,
+942,Atatürk University,1201–1500,1380.0,1401+,
+943,Austral University of Chile,1201–1500,1233.0,,401-500
+944,Bandung Institute of Technology (ITB),1201–1500,1953.0,235,
+945,University of Brasília,1201–1500,859.0,,701-800
+946,The British University in Egypt,1201–1500,1363.0,1201-1400,
+947,Brno University of Technology,1201–1500,1254.0,701-750,901-1000
+948,Bu-Ali Sina University,1201–1500,1603.0,,
+949,University of Bucharest,1201–1500,1028.0,1001-1200,
+950,Budapest University of Technology and Economics,1201–1500,931.0,801-1000,901-1000
+951,University of Cadiz,1201–1500,1029.0,,
+952,University of Carthage,1201–1500,1371.0,,
+953,The Catholic University of Korea,1201–1500,636.0,494,701-800
+954,Catholic University of the North,1201–1500,1628.0,,
+955,Chang Gung University of Science and Technology,1201–1500,1645.0,,
+956,"University of Chemistry and Technology, Prague",1201–1500,1139.0,358,
+957,University of Chester,1201–1500,91.0,,151-200
+958,Chosun University,1201–1500,1395.0,,
+959,Chungbuk National University,1201–1500,925.0,,901-1000
+960,Chungnam National University,1201–1500,690.0,,701-800
+961,Chung Yuan Christian University,1201–1500,1313.0,,
+962,University of Concepción,1201–1500,823.0,,901-1000
+963,Czech Technical University in Prague,1201–1500,619.0,,801-900
+964,Democritus University of Thrace,1201–1500,1357.0,,
+965,Dokuz Eylül University,1201–1500,1150.0,,801-900
+966,Ege University,1201–1500,892.0,,901-1000
+967,Ehime University,1201–1500,1019.0,,
+968,The University of Electro-Communications,1201–1500,1463.0,,
+969,Erciyes University,1201–1500,1285.0,,901-1000
+970,Federal University of Espírito Santo,1201–1500,1200.0,,
+971,Federal University of Goiás,1201–1500,1064.0,,901-1000
+972,Federal University of Lavras,1201–1500,1275.0,,
+973,Federal University of Rio Grande do Norte (UFRN),1201–1500,984.0,,901-1000
+974,Federal University of Santa Maria,1201–1500,1045.0,,801-900
+975,Federal University of São Carlos,1201–1500,960.0,,601-700
+976,Federal University of Uberlândia,1201–1500,1240.0,,
+977,Federal University of Viçosa,1201–1500,919.0,,601-700
+978,Federico Santa María Technical University,1201–1500,871.0,,
+979,University of La Frontera,1201–1500,1449.0,,
+980,Fujian Normal University,1201–1500,1020.0,,701-800
+981,Gazi University,1201–1500,906.0,,901-1000
+982,University of Gdańsk,1201–1500,1171.0,,
+983,Gdańsk University of Technology,1201–1500,1346.0,,801-900
+984,Gebze Technical University,1201–1500,1974.0,,
+985,Georgia Southern University,1201–1500,1655.0,,
+986,Gifu University,1201–1500,1009.0,,
+987,Gunma University,1201–1500,1113.0,,
+988,Gyeongsang National University,1201–1500,814.0,,801-900
+989,Hallym University,1201–1500,979.0,,901-1000
+990,Harbin Engineering University,1201–1500,799.0,,501-600
+991,Helwan University,1201–1500,1502.0,,
+992,Incheon National University,1201–1500,1475.0,,
+993,Indian Institute of Science Education and Research Bhopal,1201–1500,1896.0,,
+994,University of Isfahan,1201–1500,1454.0,,
+995,Istanbul Medipol University,1201–1500,687.0,,401-500
+996,Jeju National University,1201–1500,1366.0,,
+997,Jianghan University,1201–1500,549.0,,401-500
+998,Kagawa University,1201–1500,1451.0,,
+999,Kanazawa Medical University,1201–1500,1995.0,,701-800
+1000,Kangwon National University,1201–1500,735.0,,801-900
+1001,Kaunas University of Technology,1201–1500,1862.0,,
+1002,Kharazmi University,1201–1500,1960.0,,
+1003,Khon Kaen University,1201–1500,1190.0,,
+1004,Kitasato University,1201–1500,758.0,,601-700
+1005,Kyushu Institute of Technology (Kyutech),1201–1500,1528.0,,
+1006,University of Lethbridge,1201–1500,1554.0,,
+1007,Londrina State University,1201–1500,1464.0,,
+1008,University of Malaga,1201–1500,663.0,,701-800
+1009,University of Maribor,1201–1500,1077.0,,
+1010,Marmara University,1201–1500,974.0,,
+1011,Mendel University in Brno,1201–1500,1667.0,,
+1012,Metropolitan Autonomous University,1201–1500,1123.0,,901-1000
+1013,Mie University,1201–1500,1179.0,,
+1014,Mohammed V University of Rabat,1201–1500,950.0,,
+1015,University of Monastir,1201–1500,1368.0,,
+1016,Nagasaki University,1201–1500,855.0,,801-900
+1017,Nagoya City University,1201–1500,1141.0,,101-150
+1018,National Chengchi University,1201–1500,1413.0,,
+1019,National Chung Cheng University,1201–1500,1431.0,,
+1020,National Chung Hsing University,1201–1500,723.0,,801-900
+1021,National University of Distance Education (UNED),1201–1500,1261.0,,
+1022,National Dong Hwa University,1201–1500,1688.0,,
+1023,Nicolaus Copernicus University in Toruń,1201–1500,1023.0,,901-1000
+1024,University of Nigeria Nsukka,1201–1500,1775.0,,
+1025,University of North Carolina Wilmington,1201–1500,1663.0,,
+1026,North China Electric Power University,1201–1500,577.0,,701-800
+1027,University of Ostrava,1201–1500,1866.0,,901-1000
+1028,University of Pau and Pays de l’Adour,1201–1500,1338.0,,
+1029,Pontifical Catholic University of Peru,1201–1500,1581.0,,
+1030,Pontifical Catholic University of Valparaíso,1201–1500,1421.0,,
+1031,Poznan University of Medical Sciences,1201–1500,1162.0,,
+1032,Poznan University of Technology,1201–1500,1521.0,,
+1033,Prince of Songkla University,1201–1500,1231.0,,801-900
+1034,Riga Technical University,1201–1500,1882.0,,
+1035,Ritsumeikan University,1201–1500,987.0,,
+1036,University of the Ryukyus,1201–1500,1296.0,,
+1037,Saga University,1201–1500,1322.0,,
+1038,Saitama Medical University,1201–1500,1306.0,,901-1000
+1039,"University of Santiago, Chile (USACH)",1201–1500,1377.0,,
+1040,Sapporo Medical University,1201–1500,1591.0,,
+1041,Selçuk University,1201–1500,1397.0,,
+1042,Semnan University,1201–1500,1569.0,,
+1043,University of Seoul,1201–1500,912.0,,
+1044,Seoul National University of Science and Technology (SeoulTech),1201–1500,1532.0,,
+1045,University of Sfax,1201–1500,1130.0,,
+1046,Shahid Bahonar University of Kerman,1201–1500,1576.0,,
+1047,University of Shanghai for Science and Technology,1201–1500,897.0,,701-800
+1048,Shiga University of Medical Science,1201–1500,1541.0,,
+1049,Shinshu University,1201–1500,675.0,,701-800
+1050,Showa University,1201–1500,1370.0,,
+1051,Silesian University of Technology,1201–1500,1335.0,,
+1052,Sofia University,1201–1500,905.0,,
+1053,Soonchunhyang University,1201–1500,1127.0,,
+1054,Soongsil University,1201–1500,1333.0,,
+1055,University of Sousse,1201–1500,1985.0,,151-200
+1056,Southwest Jiaotong University,1201–1500,631.0,,501-600
+1057,SRM Institute of Science and Technology,1201–1500,1555.0,,901-1000
+1058,Suranaree University of Technology,1201–1500,1716.0,,
+1059,University of Talca,1201–1500,1856.0,,801-900
+1060,Tamkang University,1201–1500,1510.0,,
+1061,University of Tarapacá,1201–1500,1999.0,,
+1062,Taras Shevchenko National University of Kyiv,1201–1500,1472.0,,
+1063,Technical University of Košice,1201–1500,1983.0,,
+1064,University of Technology of Compiègne,1201–1500,1889.0,,
+1065,Teikyo University,1201–1500,1145.0,,
+1066,Texas State University,1201–1500,1251.0,,
+1067,Tezpur University,1201–1500,1961.0,,
+1068,Thammasat University,1201–1500,1646.0,,
+1069,TOBB University of Economics and Technology,1201–1500,1229.0,,
+1070,Toho University,1201–1500,1112.0,,
+1071,Tokai University,1201–1500,993.0,,
+1072,Tokat Gaziosmanpaşa University,1201–1500,1185.0,,
+1073,Tokushima University,1201–1500,846.0,,801-900
+1074,Tokyo University of Agriculture and Technology,1201–1500,1007.0,,901-1000
+1075,Tokyo University of Science,1201–1500,763.0,,601-700
+1076,University of Toyama,1201–1500,1047.0,,
+1077,Transilvania University of Brașov,1201–1500,1530.0,,
+1078,Tunghai University,1201–1500,1811.0,,
+1079,University of Tunis El Manar,1201–1500,975.0,,
+1080,Tzu Chi University,1201–1500,1712.0,,
+1081,University of Valladolid,1201–1500,902.0,,
+1082,Warsaw University of Life Sciences – SGGW,1201–1500,1314.0,,
+1083,Warsaw University of Technology,1201–1500,711.0,,
+1084,University of West Bohemia,1201–1500,1968.0,,
+1085,Western Michigan University,1201–1500,1428.0,,
+1086,Wrocław University of Environmental and Life Sciences,1201–1500,1790.0,,
+1087,University of Wrocław,1201–1500,832.0,,
+1088,Wuhan Textile University,1201–1500,1940.0,,
+1089,Xiangtan University,1201–1500,947.0,,
+1090,Xuzhou Medical University,1201–1500,1323.0,,
+1091,Yamagata University,1201–1500,1030.0,,
+1092,University of Yamanashi,1201–1500,1269.0,,
+1093,Yazd University,1201–1500,1684.0,,
+1094,Yokohama National University,1201–1500,1255.0,,
+1095,Yuan Ze University,1201–1500,1599.0,,
+1096,University of Zagreb,1201–1500,529.0,,
+1097,Zanjan University of Medical Sciences,1201–1500,1162.0,,
+1098,Akita University,1501+,1739.0,,
+1099,Alexandru Ioan Cuza University,1501+,1473.0,,
+1100,Annamalai University,1501+,1988.0,,
+1101,Başkent University,1501+,1905.0,,
+1102,Bialystok University of Technology,1501+,1795.0,,
+1103,Bursa Uludağ University,1501+,1393.0,,
+1104,Catholic University of Brasília,1501+,859.0,,
+1105,Manisa Celal Bayar University,1501+,1797.0,,
+1106,Chubu University,1501+,1914.0,,
+1107,Chuo University,1501+,1085.0,,
+1108,Comillas Pontifical University,1501+,1687.0,,
+1109,Cracow University of Technology,1501+,1847.0,,
+1110,Cukurova University,1501+,930.0,,
+1111,Dokkyo Medical University,1501+,1809.0,,
+1112,Doshisha University,1501+,1461.0,,
+1113,Erzincan Binali Yıldırım University,1501+,1360.0,,
+1114,Eskişehir Osmangazi University,1501+,1803.0,,
+1115,Federal University of Mato Grosso do Sul,1501+,1149.0,,
+1116,Federal University of Pará,1501+,1196.0,,
+1117,Federal University of Pelotas,1501+,953.0,,
+1118,Federal University of Pernambuco,1501+,863.0,,
+1119,Federal University of Piauí,1501+,1897.0,,
+1120,Federal Rural University of Pernambuco,1501+,1627.0,,
+1121,Feng Chia University,1501+,1457.0,,
+1122,Fluminense Federal University,1501+,967.0,,
+1123,University of Fukui,1501+,1675.0,,
+1124,Fukuoka University,1501+,1424.0,,
+1125,Gaziantep University,1501+,1060.0,,
+1126,University of Guadalajara,1501+,1352.0,,
+1127,University of Guanajuato,1501+,1604.0,,
+1128,Hanoi University of Science and Technology,1501+,1958.0,,
+1129,University of Hyogo,1501+,966.0,,
+1130,Ibaraki University,1501+,1597.0,,
+1131,Inönü University,1501+,1976.0,,
+1132,I-Shou University,1501+,1556.0,,
+1133,Islamic University of Indonesia,1501+,1553.0,,
+1134,Ivane Javakhishvili Tbilisi State University,1501+,875.0,,
+1135,Iwate University,1501+,1750.0,,
+1136,Izmir Institute of Technology,1501+,1192.0,,
+1137,Kagoshima University,1501+,1066.0,,
+1138,Kanagawa University,1501+,1852.0,,
+1139,Kansai University,1501+,1774.0,,
+1140,University of Karachi,1501+,1887.0,,
+1141,Karadeniz Technical University,1501+,1440.0,,
+1142,Kasetsart University,1501+,1298.0,,
+1143,Kocaeli University,1501+,1665.0,,
+1144,Kookmin University,1501+,1540.0,,
+1145,Kwansei Gakuin University,1501+,1462.0,,
+1146,Kyoto Sangyo University,1501+,1828.0,,
+1147,Kyoto Institute of Technology,1501+,1860.0,,
+1148,Lodz University of Technology,1501+,1374.0,,
+1149,Maria Curie-Skłodowska University (UMCS),1501+,1547.0,,
+1150,Medical University of Silesia in Katowice,1501+,1110.0,,
+1151,Meiji University,1501+,1850.0,,
+1152,Meijo University,1501+,898.0,,
+1153,University of Miyazaki,1501+,1361.0,,
+1154,Nagoya Institute of Technology,1501+,1531.0,,
+1155,National Chiayi University,1501+,1910.0,,
+1156,National University of Córdoba,1501+,976.0,,
+1157,National Kaohsiung University of Science and Technology,1501+,1417.0,,
+1158,National United University,1501+,1875.0,,
+1159,University of Novi Sad,1501+,1117.0,,
+1160,Ochanomizu University,1501+,1514.0,,
+1161,Oita University,1501+,1794.0,,
+1162,Ondokuz Mayis University,1501+,1657.0,,
+1163,Payame Noor University,1501+,1693.0,,
+1164,University of Pernambuco,1501+,863.0,,
+1165,Polytechnic University of Bucharest,1501+,933.0,,
+1166,University of Rijeka,1501+,1549.0,,
+1167,Saitama University,1501+,1319.0,,
+1168,Shimane University,1501+,1407.0,,
+1169,Shizuoka University,1501+,887.0,,
+1170,University of Shizuoka,1501+,1885.0,,
+1171,University of Silesia in Katowice,1501+,1157.0,,
+1172,Slovak University of Technology in Bratislava,1501+,1629.0,,
+1173,University of Sonora,1501+,1952.0,,
+1174,Süleyman Demirel University,1501+,1398.0,,
+1175,Tokyo University of Agriculture,1501+,1007.0,,
+1176,Tottori University,1501+,1311.0,,
+1177,University of Valparaíso,1501+,1624.0,,
+1178,Van Yüzüncü Yil University,1501+,1986.0,,
+1179,Vietnam National University (Ho Chi Minh City),1501+,1492.0,,
+1180,VSB - Technical University of Ostrava,1501+,1801.0,,
+1181,University of Warmia and Mazury in Olsztyn,1501+,1537.0,,
+1182,West University of Timişoara,1501+,1206.0,,
+1183,Wrocław University of Science and Technology,1501+,999.0,,
+1184,Yamaguchi University,1501+,1173.0,,
+1185,Yanshan University,1501+,920.0,,
+1186,Aga Khan University,Reporter,1051.0,,
+1187,American University of Nigeria,Reporter,1775.0,,
+1188,Anglo-American University,Reporter,1003.0,,
+1189,Ankara Science University,Reporter,665.0,,
+1190,Arab American University,Reporter,1003.0,,
+1191,Arts University Bournemouth,Reporter,1239.0,,
+1192,Antonio Nariño University,Reporter,1391.0,,
+1193,Central European University,Reporter,1745.0,,
+1194,Courtauld Institute of Art,Reporter,731.0,,
+1195,Cranfield University,Reporter,831.0,,
+1196,Doğuş University,Reporter,1587.0,,
+1197,European University of Valencia,Reporter,284.0,,
+1198,Government College Women University Faisalabad,Reporter,1637.0,,
+1199,"The Graduate University for Advanced Studies, SOKENDAI",Reporter,851.0,,
+1200,Greenwich University,Reporter,1281.0,,
+1201,University of Health and Allied Sciences,Reporter,1808.0,,
+1202,"University of Health Sciences, Turkey",Reporter,1808.0,,
+1203,University of the Highlands and Islands,Reporter,1812.0,,
+1204,Hiroshima Shudo University,Reporter,445.0,,
+1205,Hiroshima Institute of Technology,Reporter,1384.0,,
+1206,Hitotsubashi University,Reporter,556.0,,
+1207,Istanbul Aydın University,Reporter,1430.0,,
+1208,Istanbul Gelişim University,Reporter,687.0,,
+1209,Japan Advanced Institute of Science and Technology (JAIST),Reporter,1814.0,,
+1210,Kobe Gakuin University,Reporter,451.0,,
+1211,Leeds Trinity University,Reporter,1585.0,,
+1212,Liverpool School of Tropical Medicine,Reporter,1164.0,,
+1213,London Business School,Reporter,870.0,,
+1214,London School of Hygiene and Tropical Medicine,Reporter,236.0,,
+1215,University of Los Lagos,Reporter,1924.0,,
+1216,Middle Technical University,Reporter,595.0,,
+1217,University of Misan,Reporter,179.0,,
+1218,Nara Institute of Science and Technology,Reporter,1175.0,,
+1219,Nara Women’s University,Reporter,1830.0,,
+1220,University of Nova Gorica,Reporter,1823.0,,
+1221,University of Science and Technology of Southern Philippines (USTP),Reporter,487.0,,
+1222,Suez University,Reporter,1923.0,,
+1223,Western Caspian University,Reporter,189.0,,
+1224,West Virginia University,Reporter,494.0,,
+1225,University of Chester,1201–1500,,147,151-200
+1226,Chungbuk National University,1201–1500,,1001-1200,901-1000
+1227,Chungnam National University,1201–1500,,751-800,701-800
+1228,Chung Yuan Christian University,1201–1500,,1201-1400,
+1229,Corvinus University of Budapest,1201–1500,,1001-1200,
+1230,Czech Technical University in Prague,1201–1500,,378,801-900
+1231,De La Salle University,1201–1500,,801-1000,
+1232,Ege University,1201–1500,,1201-1400,901-1000
+1233,Erciyes University,1201–1500,,1401+,901-1000
+1234,Escuela Superior Politécnica del Litoral,1201–1500,,1001-1200,
+1235,Universidade do Estado do Rio de Janeiro (UERJ),1201–1500,,1001-1200,
+1236,Universidade Federal da Bahia,1201–1500,,1201-1400,
+1237,Universidade Federal do Paraná (UFPR),1201–1500,,801-1000,
+1238,University of Gdańsk,1201–1500,,801-1000,
+1239,Gdańsk University of Technology,1201–1500,,801-1000,801-900
+1240,Gebze Technical University,1201–1500,,1201-1400,
+1241,German University in Cairo,1201–1500,,1201-1400,
+1242,Gifu University,1201–1500,,601-650,
+1243,Gunma University,1201–1500,,651-700,
+1244,Hallym University,1201–1500,,571-580,901-1000
+1245,Harbin Engineering University,1201–1500,,801-1000,501-600
+1246,The Hashemite University,1201–1500,,1201-1400,
+1247,Helwan University,1201–1500,,1201-1400,
+1248,University of Hradec Králové,1201–1500,,801-1000,
+1249,Hungarian University of Agriculture and Life Sciences,1201–1500,,801-1000,
+1250,Istanbul Medipol University,1201–1500,,801-1000,401-500
+1251,Ivan Franko National University of Lviv,1201–1500,,1001-1200,
+1252,Jeju National University,1201–1500,,1001-1200,
+1253,Jianghan University,1201–1500,,1001-1200,401-500
+1254,Kanazawa Medical University,1201–1500,,601-650,701-800
+1255,Kangwon National University,1201–1500,,1001-1200,801-900
+1256,Kaunas University of Technology,1201–1500,,801-1000,
+1257,Khon Kaen University,1201–1500,,801-1000,
+1258,Universiti Kuala Lumpur,1201–1500,,1001-1200,
+1259,Kyushu Institute of Technology (Kyutech),1201–1500,,1001-1200,
+1260,L.N. Gumilyov Eurasian National University,1201–1500,,277,
+1261,Universiti Malaysia Sarawak (UNIMAS),1201–1500,,1001-1200,
+1262,University of Maribor,1201–1500,,801-1000,
+1263,Marmara University,1201–1500,,1201-1400,
+1264,Mendel University in Brno,1201–1500,,801-1000,
+1265,Mie University,1201–1500,,347,
+1266,Multimedia University,1201–1500,,1001-1200,
+1267,University of Mumbai,1201–1500,,1001-1200,
+1268,Nagasaki University,1201–1500,,571-580,801-900
+1269,Nagoya City University,1201–1500,,112,101-150
+1270,National Chengchi University,1201–1500,,601-650,
+1271,National Chung Cheng University,1201–1500,,801-1000,
+1272,National Chung Hsing University,1201–1500,,651-700,801-900
+1273,National Dong Hwa University,1201–1500,,1201-1400,
+1274,National Technical University Kharkiv Polytechnic Institute,1201–1500,,651-700,
+1275,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,1201–1500,,701-750,
+1276,Nicolaus Copernicus University in Toruń,1201–1500,,801-1000,901-1000
+1277,Slovak University of Agriculture in Nitra,1201–1500,,1201-1400,
+1278,Osmania University,1201–1500,,1201-1400,
+1279,University of Ostrava,1201–1500,,1001-1200,901-1000
+1280,University of Pannonia,1201–1500,,1001-1200,
+1281,Pontifícia Universidade Católica do Paraná,1201–1500,,1201-1400,
+1282,Poznan University of Technology,1201–1500,,801-1000,
+1283,University of Primorska,1201–1500,,1001-1200,
+1284,Prince of Songkla University,1201–1500,,801-1000,801-900
+1285,Qassim University,1201–1500,,801-1000,
+1286,Riga Technical University,1201–1500,,751-800,
+1287,Ritsumeikan University,1201–1500,,701-750,
+1288,Saitama Medical University,1201–1500,,1001-1200,901-1000
+1289,Universitas Sebelas Maret,1201–1500,,1001-1200,
+1290,University of Seoul,1201–1500,,801-1000,
+1291,Seoul National University of Science and Technology (SeoulTech),1201–1500,,1001-1200,
+1292,Shibaura Institute of Technology,1201–1500,,1201-1400,
+1293,Shinshu University,1201–1500,,801-1000,701-800
+1294,Silesian University of Technology,1201–1500,,1001-1200,
+1295,Soongsil University,1201–1500,,1201-1400,
+1296,University of Sousse,1201–1500,,240,151-200
+1297,Southwest Jiaotong University,1201–1500,,1201-1400,501-600
+1298,SRM Institute of Science and Technology,1201–1500,,1201-1400,901-1000
+1299,Suranaree University of Technology,1201–1500,,1201-1400,
+1300,Tamkang University,1201–1500,,1201-1400,
+1301,Taras Shevchenko National University of Kyiv,1201–1500,,651-700,
+1302,Technical University of Košice,1201–1500,,801-1000,
+1303,Institut Teknologi Sepuluh Nopember,1201–1500,,701-750,
+1304,Thammasat University,1201–1500,,651-700,
+1305,Tokai University,1201–1500,,1001-1200,
+1306,Tokushima University,1201–1500,,701-750,801-900
+1307,Tokyo University of Agriculture and Technology,1201–1500,,701-750,901-1000
+1308,Tokyo University of Science,1201–1500,,801-1000,601-700
+1309,Tomas Bata University in Zlín,1201–1500,,1001-1200,
+1310,Transilvania University of Brașov,1201–1500,,1201-1400,
+1311,Tunghai University,1201–1500,,1201-1400,
+1312,Universiti Malaysia Terengganu (UMT),1201–1500,,1001-1200,
+1313,Universiti Tun Hussein Onn Malaysia (UTHM),1201–1500,,1001-1200,
+1314,Vilnius Gediminas Technical University (Vilnius Tech),1201–1500,,701-750,
+1315,V.N. Karazin Kharkiv National University,1201–1500,,541-550,
+1316,Vytautas Magnus University,1201–1500,,801-1000,
+1317,Warsaw University of Life Sciences – SGGW,1201–1500,,1001-1200,
+1318,Warsaw University of Technology,1201–1500,,521-530,
+1319,University of West Bohemia,1201–1500,,1201-1400,
+1320,Western Michigan University,1201–1500,,1001-1200,
+1321,University of Wrocław,1201–1500,,801-1000,
+1322,Yokohama National University,1201–1500,,801-1000,
+1323,Yuan Ze University,1201–1500,,1201-1400,
+1324,University of Zagreb,1201–1500,,801-1000,
+1325,Alexandru Ioan Cuza University,1501+,,1201-1400,
+1326,Aoyama Gakuin University,1501+,,1201-1400,
+1327,Universidad Autónoma Chapingo,1501+,,751-800,
+1328,Universidad Autónoma del Estado de Hidalgo,1501+,,801-1000,
+1329,Universidad Autónoma del Estado de Mexico (UAEMex),1501+,,801-1000,
+1330,Universidad Autónoma del Estado de Morelos,1501+,,1201-1400,
+1331,Universidad Autónoma de Nuevo León (UANL),1501+,,1001-1200,
+1332,Universidad Autónoma de Querétaro,1501+,,1201-1400,
+1333,Universidad Autónoma de Yucatán,1501+,,1201-1400,
+1334,University of Baghdad,1501+,,801-1000,
+1335,Baku State University,1501+,,1001-1200,
+1336,University of Basrah,1501+,,1201-1400,
+1337,Benemérita Universidad Autónoma de Puebla,1501+,,1001-1200,
+1338,Bialystok University of Technology,1501+,,1001-1200,
+1339,University of Craiova,1501+,,1401+,
+1340,Cukurova University,1501+,,1401+,
+1341,Diponegoro University,1501+,,801-1000,
+1342,Doshisha University,1501+,,1001-1200,
+1343,Escuela Politécnica Nacional,1501+,,1001-1200,
+1344,Universidade do Estado de Santa Catarina,1501+,,1201-1400,
+1345,Universidade Federal do Ceará (UFC),1501+,,1201-1400,
+1346,Universidade Federal de Juiz de Fora,1501+,,1001-1200,
+1347,Feng Chia University,1501+,,1201-1400,
+1348,Hanoi University of Science and Technology,1501+,,1201-1400,
+1349,Universidad Industrial de Santander (UIS),1501+,,1001-1200,
+1350,Instituto Politécnico Nacional (IPN),1501+,,751-800,
+1351,Ivane Javakhishvili Tbilisi State University,1501+,,601-650,
+1352,Izmir Institute of Technology,1501+,,1201-1400,
+1353,Kagoshima University,1501+,,701-750,
+1354,Kanagawa University,1501+,,601-650,
+1355,University of Karachi,1501+,,1201-1400,
+1356,Kasetsart University,1501+,,801-1000,
+1357,King Mongkut’s Institute of Technology Ladkrabang,1501+,,1201-1400,
+1358,Kookmin University,1501+,,1001-1200,
+1359,University of Kufa,1501+,,1001-1200,
+1360,Kwansei Gakuin University,1501+,,1201-1400,
+1361,Kyoto Sangyo University,1501+,,36,
+1362,Kyoto Institute of Technology,1501+,,1001-1200,
+1363,Lodz University of Technology,1501+,,801-1000,
+1364,Lucian Blaga University of Sibiu,1501+,,1201-1400,
+1365,Medical University of Silesia in Katowice,1501+,,1201-1400,
+1366,Meiji University,1501+,,1201-1400,
+1367,Universidad Michoacana de San Nicolás de Hidalgo,1501+,,1401+,
+1368,University of Miskolc,1501+,,1001-1200,
+1369,Mustansiriyah University,1501+,,1001-1200,
+1370,Universidad Nacional del Litoral,1501+,,1201-1400,
+1371,Universidad Nacional Mayor de San Marcos,1501+,,801-1000,
+1372,Nagoya Institute of Technology,1501+,,1001-1200,
+1373,National Taipei University,1501+,,1201-1400,
+1374,University of Novi Sad,1501+,,1201-1400,
+1375,University of Oradea,1501+,,1401+,
+1376,Universitas Padjadjaran,1501+,,751-800,
+1377,Universidad Panamericana (UP),1501+,,541-550,
+1378,University of Pardubice,1501+,,1001-1200,
+1379,Universidad Pontificia Bolivariana (UPB),1501+,,601-650,
+1380,Pontificia Universidad Católica del Ecuador,1501+,,801-1000,
+1381,University of Rijeka,1501+,,1001-1200,
+1382,Saitama University,1501+,,1001-1200,
+1383,Satbayev University,1501+,,405,
+1384,University of Silesia in Katowice,1501+,,1201-1400,
+1385,Slovak University of Technology in Bratislava,1501+,,801-1000,
+1386,Sophia University,1501+,,801-1000,
+1387,Universitas Sumatera Utara,1501+,,1201-1400,
+1388,Technical University of Cluj-Napoca,1501+,,1201-1400,
+1389,Technical University of Liberec,1501+,,801-1000,
+1390,Universiti Teknologi MARA,1501+,,651-700,
+1391,Telkom University,1501+,,1001-1200,
+1392,Tokyo University of Agriculture,1501+,,701-750,
+1393,Universitas Andalas,1501+,,1201-1400,
+1394,Universiti Malaysia Sabah (UMS),1501+,,1001-1200,
+1395,VSB - Technical University of Ostrava,1501+,,1201-1400,
+1396,University of Warmia and Mazury in Olsztyn,1501+,,1001-1200,
+1397,Yamaguchi University,1501+,,801-1000,
+1398,Ajman University,Reporter,,651-700,
+1399,Al-Quds University,Reporter,,1001-1200,
+1400,Anglo-American University,Reporter,,701-750,
+1401,Arab American University,Reporter,,701-750,
+1402,Arts University Bournemouth,Reporter,,801-1000,
+1403,Azerbaijan State University of Economics,Reporter,,1001-1200,
+1404,Birzeit University,Reporter,,1201-1400,
+1405,Universidad Católica de Colombia,Reporter,,1201-1400,
+1406,Universidad Católica de Cuenca,Reporter,,1201-1400,
+1407,Universidad Católica San Pablo,Reporter,,1401+,
+1408,University of Dubai,Reporter,,801-1000,
+1409,Future University in Egypt,Reporter,,1001-1200,
+1410,Greenwich University,Reporter,,801-1000,
+1411,Harper Adams University,Reporter,,1001-1200,
+1412,Hiroshima Shudo University,Reporter,,338,
+1413,Hitotsubashi University,Reporter,,531-540,
+1414,International Christian University,Reporter,,801-1000,
+1415,Islamic University of Madinah,Reporter,,801-1000,
+1416,Istanbul Aydın University,Reporter,,1001-1200,
+1417,Istanbul Gelişim University,Reporter,,801-1000,
+1418,Kazakh National Pedagogical University Abai,Reporter,,511-520,
+1419,Kobe Gakuin University,Reporter,,363,
+1420,Kyrgyz-Turkish Manas University,Reporter,,801-1000,
+1421,La Salle University,Reporter,,801-1000,
+1422,London Metropolitan University,Reporter,,801-1000,
+1423,Middle Technical University,Reporter,,501-510,
+1424,University of Misan,Reporter,,324,
+1425,Mutah University,Reporter,,1001-1200,
+1426,University of Northampton,Reporter,,1001-1200,
+1427,Queen Margaret University,Reporter,,801-1000,
+1428,University of Saint Joseph,Reporter,,531-540,
+1429,Universidad San Ignacio de Loyola,Reporter,,1201-1400,
+1430,University of Santo Tomas,Reporter,,801-1000,
+1431,Suez University,Reporter,,1201-1400,
+1432,Tecnológico de Costa Rica,Reporter,,801-1000,
+1433,Universidad del Pacífico Ecuador,Reporter,,1001-1200,
+1434,Western Caspian University,Reporter,,172,
+1435,University of West London,Reporter,,801-1000,
+1436,West Virginia University,Reporter,,1001-1200,
+1437,University of Valladolid,1201–1500,,,901-1000
+1438,Warsaw University of Life Sciences – SGGW,1201–1500,,,801-900
+1439,Warsaw University of Technology,1201–1500,,,901-1000
+1440,University of Zagreb,1201–1500,,,401-500
+1441,Catholic University of Brasília,1501+,,,701-800
+1442,Federal University of Pernambuco,1501+,,,801-900
+1443,Federal Rural University of Pernambuco,1501+,,,801-900
+1444,Fluminense Federal University,1501+,,,701-800
+1445,Kanagawa University,1501+,,,701-800
+1446,Kyoto Sangyo University,1501+,,,41
+1447,University of Novi Sad,1501+,,,901-1000
+1448,University of Pernambuco,1501+,,,801-900
+1449,Saitama University,1501+,,,901-1000
+1450,Tokyo University of Agriculture,1501+,,,901-1000
+1451,VSB - Technical University of Ostrava,1501+,,,901-1000
+1452,Wrocław University of Science and Technology,1501+,,,901-1000
+1453,Yanshan University,1501+,,,801-900
+1454,Ankara Science University,Reporter,,,801-900
+1455,Arts University Bournemouth,Reporter,,,801-900
+1456,Cranfield University,Reporter,,,801-900
+1457,European University of Valencia,Reporter,,,201-300
+1458,"The Graduate University for Advanced Studies, SOKENDAI",Reporter,,,901-1000
+1459,Greenwich University,Reporter,,,601-700
+1460,"University of Health Sciences, Turkey",Reporter,,,601-700
+1461,Hiroshima Shudo University,Reporter,,,401-500
+1462,Istanbul Aydın University,Reporter,,,401-500
+1463,Istanbul Gelişim University,Reporter,,,401-500
+1464,Kobe Gakuin University,Reporter,,,401-500
+1465,Liverpool School of Tropical Medicine,Reporter,,,701-800
+1466,London School of Hygiene and Tropical Medicine,Reporter,,,151-200
+1467,Middle Technical University,Reporter,,,901-1000
+1468,University of Misan,Reporter,,,151-200
+1469,Nara Institute of Science and Technology,Reporter,,,901-1000
+1470,University of Science and Technology of Southern Philippines (USTP),Reporter,,,151-200
+1471,Sikkim Manipal University,Reporter,,,901-1000
+1472,Western Caspian University,Reporter,,,201-300
+1473,West Virginia University,Reporter,,,401-500
